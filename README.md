@@ -1,6 +1,3 @@
-# awesome-web-utilities
-A curated list of useful web utilities, online tools, and developer resources for everyday work.
-
 # Awesome Web Utilities & Developer Resources
 
 A curated list of useful online utility tools, developer resources, and web development links for everyday work.
